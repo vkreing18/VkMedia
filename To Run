@@ -1,13 +1,4 @@
-Functionalities:
-#User Authentication and Authorisation
-#Email Verification
-#Password reset
-#Create Post
-#Advance Comment system (comments with sub coments)
-#Like post and comments
-#Delete post
-#Friend Request (send request, accept or deby) and others.....
-Getting Started
+
 SERVER OR BACKEND
 Firstly move to the server directory eg: cd server
 
